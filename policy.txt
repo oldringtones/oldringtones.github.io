@@ -10,7 +10,7 @@ This permission is required to change system settings. We only ask for this perm
 We ask for this permission to show admob ads.
 
 2.Ads
-Google Admob Ads are used in this application. Ads are shown according to your interests. There are personalized ads.
+Yodo1 ads are used. Ads were personalized and show ads based on your interests.
 
 3.Firebase
 The application has Firebase database and analytics service. The database contains only our information. No information about you is stored here. In the analytics part, instant data is shown. Your application usage behaviors are not stored.
