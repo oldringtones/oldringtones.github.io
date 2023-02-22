@@ -6,11 +6,13 @@ We (Old Ringtones Apps) respect your privacy and are committed to protecting you
 This permission is required to download ringtones to your phone and set them as ringtones. 
 	•Write Settings
 This permission is required to change system settings. We only ask for this permission to make sounds as ringtones.
+	•Read Audio Permission
+This permission is required to download ringtones on Android 13 and higher devices.
 	•Internet
 We ask for this permission to show admob ads.
 
 2.Ads
-Yodo1 ads are used. Ads were personalized and show ads based on your interests.
+Appodeal ads are used. Ads were personalized and show ads based on your interests.
 
 3.Firebase
 The application has Firebase database and analytics service. The database contains only our information. No information about you is stored here. In the analytics part, instant data is shown. Your application usage behaviors are not stored.
@@ -22,6 +24,8 @@ The application contains the Onesignal notification service SDK. We're using thi
 Crash data is viewed without your personal information. We use them to make our app better.
 
 This app targets 18 years and older. Not eligible for the Children and Families Programme.
+
+The app is also subject to the appodeal privacy policy. For more information, you can visit appodeal's current privacy policy. https://appodeal.com/privacy-policy/
 
 
 
